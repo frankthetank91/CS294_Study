@@ -1,6 +1,6 @@
 # AI Robotics KR - CS294 스터디 Repository
 
-![image_link](https://github.com/ai-robotics-kr/cpp_study/blob/master/file/cpp_icon.png?raw=true)
+![image_link](https://github.com/ai-robotics-kr/CS294_Study/blob/master/UCBerkeley_Logo.png?raw=true)
 ## 스터디 소개:
 - 목적: UC Berkeley의 ----년도 CS294 강의 자료와 ["파이썬과 케라스로 배우는 강화학습"](https://wikibook.co.kr/reinforcement-learning/) 자료를 기반으로 심층강화학습에 대해 공부하기.
 - 기간: 2019년 8월 ~ 2019년 --월
