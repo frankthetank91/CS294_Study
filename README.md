@@ -3,7 +3,7 @@
 ![image_link](https://github.com/ai-robotics-kr/CS294_Study/blob/master/UCBerkeley_Logo.png?raw=true)
 ## 스터디 소개:
 - 목적: UC Berkeley의 2018년도 CS294 강의 자료와 ["파이썬과 케라스로 배우는 강화학습"](https://wikibook.co.kr/reinforcement-learning/) 자료를 기반으로 심층강화학습에 대해 공부하기.
-- 기간: 2019년 8월 ~ 2019년 12월 (종료일 미확정)
+- 기간: 2019년 8월 ~ 2020년 1월 (종료일 미확정)
 - 참여자: 양정아, 김승원, 김충희, 김한준, 이동섭, 이정연, 이해중, 전효정, 최시현, 최윤규, 최원우, 황태준
 - 기획 그룹: [AI Robotics KR](https://www.facebook.com/groups/airoboticskr/)
 
@@ -55,7 +55,7 @@ Deposit : 3만원
 
 ## CS294 스터디 안내
 ```
-- 오프라인으로 매주 목요일 19시 30분~ 21시 30분에 진행됩니다. (2019.08 ~ 2019.12)
+- 오프라인으로 매주 목요일 19시 30분~ 21시 30분에 진행됩니다. (2019.08 ~ 2020.01)
 - 스터디 형식: 매주 돌아가면서 그 주의 조가 준비한 자료를 참고해서 이론 공부 + 실습 + 질의응답 및 토론 
 ```
 ```
