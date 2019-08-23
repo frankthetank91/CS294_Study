@@ -2,41 +2,65 @@
 
 ![image_link](https://github.com/ai-robotics-kr/CS294_Study/blob/master/UCBerkeley_Logo.png?raw=true)
 ## 스터디 소개:
-- 목적: UC Berkeley의 ----년도 CS294 강의 자료와 ["파이썬과 케라스로 배우는 강화학습"](https://wikibook.co.kr/reinforcement-learning/) 자료를 기반으로 심층강화학습에 대해 공부하기.
-- 기간: 2019년 8월 ~ 2019년 --월
-- 참여자: 양정아  
+- 목적: UC Berkeley의 2018년도 CS294 강의 자료와 ["파이썬과 케라스로 배우는 강화학습"](https://wikibook.co.kr/reinforcement-learning/) 자료를 기반으로 심층강화학습에 대해 공부하기.
+- 기간: 2019년 8월 ~ 2019년 12월 (종료일 미확정)
+- 참여자: 양정아, 김승원, 김충희, 김한준, 이동섭, 이정연, 이해중, 전효정, 최시현, 최윤규, 최원우, 황태준
 - 기획 그룹: [AI Robotics KR](https://www.facebook.com/groups/airoboticskr/)
 
 ## 스터디 진행 방법 / Repository 사용법:
-- 
-- 
-- *아직 스터디원들이 git 사용법에 익숙하지가 않습니다! Git에 대한 스터디도 가볍게 익히고 나서 자료를 정기적으로 업데이트 하겠습니다!*
+- 강의 리뷰 : 3인 1팀 구성, 1주 1강씩 강의 리뷰 발표
+- 코딩 : 강의 진도에 맞춰서 예제 코드 진행
+- 리뷰 발표 자료, 질의 응답 관련된 내용은 *당일 발표 팀*에서 정리해서 깃허브에 업로드
+
+## 팀 구성
+pytorch -
+tensorflow -
+keras - 
+
+## 무단 결석 & 지각 벌금
+Deposit : 3만원
+*무단 결석(당일 취소) 시 만원 차감*
+### 지각
+- 10분 : 2000원
+- 30분 : 3000원
+- 1시간 이후 : 5000원
 
 ## 스터디 진도표
 |          스터디 내용         |   날짜와 시간     | 발표자 |
 | -------------------------- |:---------------:|-----:|
-| Introduction | |  |
+| Lecture 2: Supervised Learning and Imitation | 19/08/29 |    |
+| Lecture 4: Reinforcement Learning Introduction | 19/09/05 | |
+| Lecture 5: Policy Gradients Introduction | 19/09/19 ||
+| Lecture 6: Actor-Critic Introduction | 19/09/26 ||
+| Lecture 7: Value Functions and Q-Learning | 19/10/03 ||
+| Lecture 8: Advanced Q-Learning Algorithms | 19/10/10 ||
+| Lecture 9: Advanced Policy Gradients | 19/10/17 | |
+| Lecture 10: Optimal Control and Planning | 19/10/24 ||
+| Lecture 11: Model-Based Reinforcement Learning | 19/10/31 ||
+| Lecture 12: Advanced Model Learning and Images | 19/11/07 ||
+| Lecture 13: Learning Policies by Imitating Other Policies | 19/11/14 ||
+| Lecture 14: Probability and Variational Inference Primer | 19/11/21 ||
+| Lecture 15: Connection between Inference and Control | 19/11/28 | |
+| Lecture 16: Inverse Reinforcement Learning | 19/12/05 ||
+| Lecture 17: Exploration: Part 1 | 19/12/12 ||
+| Lecture 18: Exploration: Part 2 | 19/12/19 ||
+| Lecture 19: Transfer Learning and Multi-Task Learning | 19/12/26 ||
+| Lecture 20: Meta-Learning| 19/01/02 ||
+| Lecture 21: Parallelism and RL System Design | 19/01/09 ||
+| Lecture 22: Advanced Imitation Learning and Open Problems| 19/01/16 ||
 
 ## CS294 스터디 안내
 ```
-- 오프라인으로 매주 목요일 19시 30분~ 21시 30분에 진행됩니다. (2019.0-- ~ 2019.--)
+- 오프라인으로 매주 목요일 19시 30분~ 21시 30분에 진행됩니다. (2019.08 ~ 2019.12)
 - 스터디 형식: 매주 돌아가면서 그 주의 조가 준비한 자료를 참고해서 이론 공부 + 실습 + 질의응답 및 토론 
 ```
 ```
-- 이론 공부 자료:
-  
+- 이론 공부 자료: 
+- [Lecture Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
 - 질의 응답: 강의 내용과 관련해 서로 질문하고 의견을 공유합니다.
-
-- 토론
-  - 토론 주제는 단답식 토론 주제나 퀴즈형식도 괜찮습니다.
-  - 토론을 지향하나 토론 내용이 없으면 넘어가도 괜찮습니다.
-
-- 기타 알림 사항
-  - 슬랙 채널 #study_cs294나 카카오톡 단톡방을 이용하여 질문하실 수 있습니다.
-  - 직장인이나 천천히 공부하고 싶은 분들이 있을 것 같아 총 --주로 구성하였습니다.
-  - 마음껏 질문과 의견을 나누어주세요.
 ```
 ## 유용한 링크 모음
+- [David Silver RL video](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - ["파이썬과 케라스로 배우는 강화학습"](https://wikibook.co.kr/reinforcement-learning/)
 - [CS285 (이전 CS294)](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [CS294 2017](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html)
