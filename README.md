@@ -19,7 +19,7 @@
 
 - tensorflow & keras
     - 최원우, 전효정, 김한준
-    - 해중, 최윤규, 김승원
+    - 이해중, 최윤규, 김승원
 
 ## 무단 결석 & 지각 벌금
 Deposit : 3만원
@@ -32,23 +32,23 @@ Deposit : 3만원
 ## 스터디 진도표
 |          스터디 내용         |   날짜와 시간     | 발표자 |
 | -------------------------- |:---------------:|-----:|
-| Lecture 2: Supervised Learning and Imitation | 19/08/29 |  해중, 최윤규, 김승원  |
+| Lecture 2: Supervised Learning and Imitation | 19/08/29 |  이해중, 최윤규, 김승원  |
 | Lecture 4: Reinforcement Learning Introduction | 19/09/05 | 황태준, 이정연, 김충희 |
 | Lecture 5: Policy Gradients Introduction | 19/09/19 | 최원우, 전효정, 김한준 |
 | Lecture 6: Actor-Critic Introduction | 19/09/26 | 최시현, 이동섭, 양정아 |
-| Lecture 7: Value Functions and Q-Learning | 19/10/03 | 해중, 최윤규, 김승원 |
+| Lecture 7: Value Functions and Q-Learning | 19/10/03 | 이해중, 최윤규, 김승원 |
 | Lecture 8: Advanced Q-Learning Algorithms | 19/10/10 | 황태준, 이정연, 김충희 |
 | Lecture 9: Advanced Policy Gradients | 19/10/17 | 최원우, 전효정, 김한준 |
 | Lecture 10: Optimal Control and Planning | 19/10/24 | 최시현, 이동섭, 양정아 |
-| Lecture 11: Model-Based Reinforcement Learning | 19/10/31 | 해중, 최윤규, 김승원 |
+| Lecture 11: Model-Based Reinforcement Learning | 19/10/31 | 이해중, 최윤규, 김승원 |
 | Lecture 12: Advanced Model Learning and Images | 19/11/07 | 황태준, 이정연, 김충희 |
 | Lecture 13: Learning Policies by Imitating Other Policies | 19/11/14 | 최원우, 전효정, 김한준 |
 | Lecture 14: Probability and Variational Inference Primer | 19/11/21 | 최시현, 이동섭, 양정아 |
-| Lecture 15: Connection between Inference and Control | 19/11/28 | 해중, 최윤규, 김승원 |
+| Lecture 15: Connection between Inference and Control | 19/11/28 | 이해중, 최윤규, 김승원 |
 | Lecture 16: Inverse Reinforcement Learning | 19/12/05 | 황태준, 이정연, 김충희 |
 | Lecture 17: Exploration: Part 1 | 19/12/12 | 최원우, 전효정, 김한준 |
 | Lecture 18: Exploration: Part 2 | 19/12/19 | 최시현, 이동섭, 양정아 |
-| Lecture 19: Transfer Learning and Multi-Task Learning | 19/12/26 | 해중, 최윤규, 김승원 |
+| Lecture 19: Transfer Learning and Multi-Task Learning | 19/12/26 | 이해중, 최윤규, 김승원 |
 | Lecture 20: Meta-Learning| 19/01/02 | 황태준, 이정연, 김충희 |
 | Lecture 21: Parallelism and RL System Design | 19/01/09 | 최원우, 전효정, 김한준 |
 | Lecture 22: Advanced Imitation Learning and Open Problems| 19/01/16 | 최시현, 이동섭, 양정아 |
